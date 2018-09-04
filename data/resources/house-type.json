@@ -1,0 +1,40 @@
+{
+  "rooms": [
+    {
+      "type": "LIVING ROOM",
+      "Items": ["Sofas", "Tables", "Chairs", "Footstool", "Divider/Screen", "Entertainment Center", "Wall unit", "Rugs/carpets", "Curtains/draperies", "Lamps", "Pictures", "Mirrors", "Stereo", "Stereo cabinet", "Television", "Radio", "Clocks", "Fireplace tools", "Bric-a-brac"]
+    },
+     {
+      "type": "DINING ROOM",
+      "Items": ["Table", "Chairs", "China cabinet", "Buffet", "Server", "Secretary", "Rugs/carpets", "Curtains/draperies", "Lamps", "Pictures", "Mirrors", "Chandelier", "Clocks", "Glassware", "Silverware", "Linens"]
+    },
+	   {
+      "type": "FAMILY ROOM",
+      "Items": ["Sofas", "Tables", "Chairs", "Desks",  "Rugs/carpets", "Curtains/draperies", "Lamps", "Pictures", "Mirrors", "Clocks", "Bookcases", "Entertainment center", "Wall unit", "Bar", "Televisions", "Stereo", "Speakers", "Pool table"]
+    },
+	     {
+      "type": "KITCHEN",
+      "Items": ["Refrigerator", "Freezer", "Range", "Dishwasher",  "Microwave", "Tables", "chairs", "Pots", "Dishes", "Glassware", "Utensils", "Silverware", "Small appliances"]
+    },
+	 {
+      "type": "MASTER BEDROOM",
+      "Items": ["Beds", "Mattresses", "Bedside tables", "Dressers",  "Wardrobe", "Futons", "Chests", "Vanities", "Dressing tables", "Chairs", "Bookcases", "Lamps", "Pictures", "Clocks", "Mirrors", "Television", "Radio", "Rugs", "Curtains"]
+    },
+	  {
+      "type": " BEDROOM 2",
+      "Items": ["Beds", "Mattresses", "Bedside tables", "Dressers",  "Wardrobe", "Futons", "Chests", "Vanities", "Dressing tables", "Chairs", "Bookcases", "Lamps", "Pictures", "Clocks", "Mirrors", "Television", "Radio", "Rugs", "Curtains"]
+    },
+	   {
+      "type": " BEDROOM 3",
+      "Items": ["Beds", "Mattresses", "Bedside tables", "Dressers",  "Wardrobe", "Futons", "Chests", "Vanities", "Dressing tables", "Chairs", "Bookcases", "Lamps", "Pictures", "Clocks", "Mirrors", "Television", "Radio", "Rugs", "Curtains"]
+    },
+	     {
+      "type": "GENERAL ITEMS",
+      "Items": ["Suits", "jackets", "Coats", "shirts",  "Trousers", "Sweaters", "Shoes", "Handbags", "Toiletries", "Books", "Luggage", "Toys"]
+    },
+		   {
+      "type": "ELECTORNICS / EQUIP.",
+      "Items": ["Vacuum cleaner", "Sewing machine", "Air conditioner", "Computers",  "Printers", "Monitors", "Washing Machine", "Dryer", "Iron", "Piano", "Elec. keyboards", "Cameras","Gym Equipment"]
+    }
+  ]
+}
